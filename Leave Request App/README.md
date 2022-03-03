@@ -2,4 +2,4 @@ The Leave request application is a demo app that manages a leave/vacation reques
 
 The datasource used by the application is SharePoint List
 
-Reach out to me with feedbacks or if you have any question
+Reach out to me @yusufoluwatobi21@gmail.com for feedback and questions
